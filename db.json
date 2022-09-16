@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "Посадить сына",
+      "isComplete": false,
+      "id": 1
+    },
+    {
+      "title": "Вырастить дом",
+      "isComplete": false,
+      "id": 2
+    },
+    {
+      "title": "Построить дерево",
+      "isComplete": false,
+      "id": 3
+    }
+  ]
+}
